@@ -31,3 +31,5 @@ https://www.youtube.com/watch?v=zKBGjGoeid0&t
 https://www.youtube.com/watch?v=-r59HK5zyhk&t
 Table
 https://stackoverflow.com/questions/33995938/how-to-create-a-table-by-using-tablelayout-in-android-studio
+Donation, Report and Base classes
+https://ddrohan.github.io/wit-mad-1-2018/
